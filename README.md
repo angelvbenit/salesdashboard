@@ -2,6 +2,8 @@
 # Project Overview
 This interactive Excel dashboard provides a comprehensive analysis of sales performance, profitability trends, and logistics efficiency. By transforming raw sales data into actionable insights, this tool allows stakeholders to monitor key business drivers, identify underperforming products, and evaluate regional performance.
 
+![Sales Dashboard Preview](https://raw.githubusercontent.com/angelvbenit/salesdashboard/main/salesdashboard.png)
+
 # Key Features & Insights
 Executive Summary (KPIs): Real-time tracking of Total Sales ($1.92M), Total Profit ($224K), and an overall Profit Margin of 11.64%.
 
